@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hi 👋, I'm Khushi
 
-<!--
-**Khushi-datascientist/Khushi-datascientist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI & Data Science Graduate
 
-Here are some ideas to get you started:
+💻 Passionate about Artificial Intelligence, Machine Learning, Data Science, and Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Building AI & Data Science projects with Python and Machine Learning.
+
+📚 Currently learning  Machine Learning, TensorFlow,NLP and Data Science.
+
+🎯 Looking for opportunities as an AI/ML Engineer, Data Scientist, or Data Analyst.
+
+## 👩‍💻 About Me
+
+- 🎓 AI & Data Science Graduate
+- 💡 Interested in Machine Learning, NLP, and Data Analysis
+- 🌱 Continuously improving my skills through hands-on projects
+- 🎯 Looking for opportunities in AI, Machine Learning, Data Science, and Data Analytics
+
+
+## 🛠️ Tech Stack
+
+**Programming Languages**
+- Python
+- SQL
+
+**Libraries & Frameworks**
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- TensorFlow (Learning)
+- NLTK (learning)
+
+**Tools**
+- Jupyter Notebook
+- Git
+- GitHub
+- VS Code
+- Google Colab
+
+**Databases**
+- Oracle SQL
+- MySQL
+
+## 📫 Connect with Me
+
+- 💼 LinkedIn: [Visit My LinkedIn Profile](https://www.linkedin.com/in/itz-khushi)
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Khushi-datascientist&show_icons=true&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Khushi-datascientist&layout=compact&theme=github_dark)
