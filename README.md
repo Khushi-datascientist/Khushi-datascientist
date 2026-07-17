@@ -6,7 +6,7 @@
 
 🚀 Building AI & Data Science projects with Python and Machine Learning.
 
-📚 Currently learning  Machine Learning, TensorFlow,NLP and Data Science.
+📚 Currently learning  Machine Learning, TensorFlow, NLP, and Data Science.
 
 🎯 Looking for opportunities as an AI/ML Engineer, Data Scientist, or Data Analyst.
 
