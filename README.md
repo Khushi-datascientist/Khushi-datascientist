@@ -35,7 +35,6 @@
 
 **Tools**
 - Jupyter Notebook
-- Git
 - GitHub
 - VS Code
 - Google Colab
