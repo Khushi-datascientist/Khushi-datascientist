@@ -13,7 +13,7 @@
 ## 👩‍💻 About Me
 
 - 🎓 AI & Data Science Graduate
-- 💡 Interested in Machine Learning, NLP, and Data Analysis
+- 💡 Interested in Artificial intelligence and  Machine Learning,Data Science , NLP, and Data Analysis
 - 🌱 Continuously improving my skills through hands-on projects
 - 🎯 Looking for opportunities in AI, Machine Learning, Data Science, and Data Analytics
 
